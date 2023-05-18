@@ -13,6 +13,13 @@ body {
     justify-content: center;
 }
 
+@media (max-width:500px){
+    .relogio {
+        flex-direction: column;
+        
+    }
+}
+
 .relogio {
     display: flex;
     align-items: center;
