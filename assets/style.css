@@ -16,7 +16,10 @@ body {
 @media (max-width:500px){
     .relogio {
         flex-direction: column;
-        
+   
+    }
+    .time{
+        margin-bottom: 1rem;
     }
 }
 
@@ -28,7 +31,7 @@ body {
     width: 550px;
     background: transparent;
     border-radius: 5px;
-    box-shadow: 8px 11px 13px rgba(98, 0, 255, 0.897);
+    
 }
 
 .relogio div {
